@@ -1,4 +1,4 @@
-import prueba from '@functions/prueba';
+import prueba from "@functions/prueba";
 
 
 import type { AWS } from "@serverless/typescript";
